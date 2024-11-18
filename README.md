@@ -1,3 +1,4 @@
 # first-one
 This is my first repository
-<bl> author - Saipriya Krishna </bl>
+</br>
+<b> author - Saipriya Krishna </b>
